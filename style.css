@@ -2,3 +2,12 @@ h1 {
     text-align: center;
     color: red;
 }
+
+ol {
+    background-color: orange;
+}
+
+li {
+    padding: 5px;
+    text-decoration: underline;
+}
